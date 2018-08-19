@@ -13,9 +13,6 @@
       https://github.com/chenfq1/netty-websocket-chatroom/blob/master/image/image2.png
     )
 
-![Image text]( 
-      https://github.com/chenfq1/netty-chatroom/blob/master/image/client2.png
-    )
 
 
 
